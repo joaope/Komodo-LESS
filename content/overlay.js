@@ -10,7 +10,7 @@ xtk.load('chrome://less/content/less.min.js');
  * Namespaces
  */
 if (typeof(extensions) === 'undefined') extensions = {};
-if (typeof(extensions.less) === 'undefined') extensions.less = { version : '1.2.0' };
+if (typeof(extensions.less) === 'undefined') extensions.less = { version : '1.7.5' };
 
 (function() {
 	var self = this,

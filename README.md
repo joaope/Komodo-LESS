@@ -33,6 +33,10 @@ The following macro will compile and compress the CSS when you save a file:
 
 # Change Log
 
+## 1.7.5
+
+* Updated LESS compiler to version 1.7.5
+
 ## 1.2.0
 
 * Updated the LESS compiler to version 1.2.1
